@@ -2,7 +2,6 @@
 
 > Skripsi | Program Studi Sistem Informasi, Universitas Riau | 2025
 > Nama: Muhammad Sulthan Muqsith Afif | NIM: 2103125616
-> Dosen Pembimbing: Dr. Feri Candra, S.T., M.T. dan Yudhi Arta, S.Kom., M.Kom.
 
 ## 1. Ringkasan Eksekutif
 
